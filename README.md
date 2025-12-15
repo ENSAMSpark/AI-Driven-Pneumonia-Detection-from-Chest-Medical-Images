@@ -55,10 +55,15 @@ Clone the repository:
 git clone https://github.com/yourusername/AI-Driven-Pneumonia-Detection.git
 
 cd AI-Driven-Pneumonia-Detection
+
 Install dependencies:
+
 pip install -r requirements.txt
+
 Prepare the dataset:
+
 chest_xray/
+
 ├── train/
 │   ├── PNEUMONIA/
 │   └── NORMAL/
