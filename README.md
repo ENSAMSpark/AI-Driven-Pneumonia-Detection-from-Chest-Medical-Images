@@ -78,11 +78,6 @@ TensorBoard integration for real-time monitoring
 Model checkpointing for best-performing weights
 Class weight balancing for imbalanced datasets
 Extended evaluation: ROC curves, confusion matrices, precision-recall curves
-# Dataset
-This project uses the Chest X-Ray Images (Pneumonia) dataset, which includes 5,856 validated images, distributed as follows:
-Pneumonia: 3,883 images
-Normal: 1,349 images
-The data originates from pediatric patients (ages 1–5) at Guangzhou Women and Children’s Medical Center.
 # Future Improvements
 Integration of transfer learning using state-of-the-art CNN architectures
 Multi-class classification for different pneumonia subtypes
